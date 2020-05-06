@@ -868,7 +868,6 @@ $.extend({ alert: function (message, title) {
                 })
             .fail (function (xhr, ajaxOptions, thrownError){
                     $('#SubmitError').show();
-                    console.log(thrownError)
                     $('#SubmitError > #ErrorCode').html(xhr.status);
                     $("#SubmitBox > .submitOnline").hide();
                     if (this.TestConfig.SupervisorContact) {
