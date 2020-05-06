@@ -11,7 +11,7 @@ var TestConfig = {
   "LoopByDefault": false,
   "EnableABLoop": true,
   "EnableOnlineSubmission": true,
-  "BeaqleServiceURL": "/loop_synth_eval/web_service/beaqleJS_Service.php",
+  "BeaqleServiceURL": "/loop_eval/web_service/beaqleJS_Service.php",
   "SupervisorContact": "antonio.ramires@upf.edu",
   "RandomizeTestOrder": true,
   "MaxTestsPerRun": 16,
