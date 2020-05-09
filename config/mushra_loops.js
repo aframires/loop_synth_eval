@@ -26,7 +26,7 @@ var TestConfig = {
             "Reference": "audio/gt_1_15.wav",
             "1": "audio/op_1_15_wave.wav",
             "2": "audio/op_1_15_mfcc.wav",
-            "3": "audio/op_1_15_wavenet.wav",
+            "3": "audio/op_1_15_noenv.wav",
             "4": "audio/op_1_15_spec.wav",
         }
     },
@@ -37,7 +37,7 @@ var TestConfig = {
             "Reference": "audio/gt_2_1.wav",
             "1": "audio/op_2_1_wave.wav",
             "2": "audio/op_2_1_mfcc.wav",
-            "3": "audio/op_2_1_wavenet.wav",
+            "3": "audio/op_2_1_noenv.wav",
             "4": "audio/op_2_1_spec.wav",
         }
     },
@@ -48,7 +48,7 @@ var TestConfig = {
             "Reference": "audio/gt_2_6.wav",
             "1": "audio/op_2_6_wave.wav",
             "2": "audio/op_2_6_mfcc.wav",
-            "3": "audio/op_2_6_wavenet.wav",
+            "3": "audio/op_2_6_noenv.wav",
             "4": "audio/op_2_6_spec.wav",
         }
     },
@@ -59,7 +59,7 @@ var TestConfig = {
             "Reference": "audio/gt_2_12.wav",
             "1": "audio/op_2_12_wave.wav",
             "2": "audio/op_2_12_mfcc.wav",
-            "3": "audio/op_2_12_wavenet.wav",
+            "3": "audio/op_2_12_noenv.wav",
             "4": "audio/op_2_12_spec.wav",
         }
     },
@@ -70,7 +70,7 @@ var TestConfig = {
             "Reference": "audio/gt_3_7.wav",
             "1": "audio/op_3_7_wave.wav",
             "2": "audio/op_3_7_mfcc.wav",
-            "3": "audio/op_3_7_wavenet.wav",
+            "3": "audio/op_3_7_noenv.wav",
             "4": "audio/op_3_7_spec.wav",
         }
     },
@@ -81,7 +81,7 @@ var TestConfig = {
             "Reference": "audio/gt_3_11.wav",
             "1": "audio/op_3_11_wave.wav",
             "2": "audio/op_3_11_mfcc.wav",
-            "3": "audio/op_3_11_wavenet.wav",
+            "3": "audio/op_3_11_noenv.wav",
             "4": "audio/op_3_11_spec.wav",
         }
     },
@@ -92,7 +92,7 @@ var TestConfig = {
             "Reference": "audio/gt_4_7.wav",
             "1": "audio/op_4_7_wave.wav",
             "2": "audio/op_4_7_mfcc.wav",
-            "3": "audio/op_4_7_wavenet.wav",
+            "3": "audio/op_4_7_noenv.wav",
             "4": "audio/op_4_7_spec.wav",
         }
     },
@@ -103,7 +103,7 @@ var TestConfig = {
             "Reference": "audio/gt_5_1.wav",
             "1": "audio/op_5_1_wave.wav",
             "2": "audio/op_5_1_mfcc.wav",
-            "3": "audio/op_5_1_wavenet.wav",
+            "3": "audio/op_5_1_noenv.wav",
             "4": "audio/op_5_1_spec.wav",
         }
     },
@@ -114,7 +114,7 @@ var TestConfig = {
             "Reference": "audio/gt_5_2.wav",
             "1": "audio/op_5_2_wave.wav",
             "2": "audio/op_5_2_mfcc.wav",
-            "3": "audio/op_5_2_wavenet.wav",
+            "3": "audio/op_5_2_noenv.wav",
             "4": "audio/op_5_2_spec.wav",
         }
     },
@@ -125,7 +125,7 @@ var TestConfig = {
             "Reference": "audio/gt_5_10.wav",
             "1": "audio/op_5_10_wave.wav",
             "2": "audio/op_5_10_mfcc.wav",
-            "3": "audio/op_5_10_wavenet.wav",
+            "3": "audio/op_5_10_noenv.wav",
             "4": "audio/op_5_10_spec.wav",
         }
     },
@@ -136,7 +136,7 @@ var TestConfig = {
             "Reference": "audio/gt_7_5.wav",
             "1": "audio/op_7_5_wave.wav",
             "2": "audio/op_7_5_mfcc.wav",
-            "3": "audio/op_7_5_wavenet.wav",
+            "3": "audio/op_7_5_noenv.wav",
             "4": "audio/op_7_5_spec.wav",
         }
     },
@@ -147,7 +147,7 @@ var TestConfig = {
             "Reference": "audio/gt_7_6.wav",
             "1": "audio/op_7_6_wave.wav",
             "2": "audio/op_7_6_mfcc.wav",
-            "3": "audio/op_7_6_wavenet.wav",
+            "3": "audio/op_7_6_noenv.wav",
             "4": "audio/op_7_6_spec.wav",
         }
     },
@@ -158,7 +158,7 @@ var TestConfig = {
             "Reference": "audio/gt_7_9.wav",
             "1": "audio/op_7_9_wave.wav",
             "2": "audio/op_7_9_mfcc.wav",
-            "3": "audio/op_7_9_wavenet.wav",
+            "3": "audio/op_7_9_noenv.wav",
             "4": "audio/op_7_9_spec.wav",
         }
     },
@@ -169,7 +169,7 @@ var TestConfig = {
             "Reference": "audio/gt_7_10.wav",
             "1": "audio/op_7_10_wave.wav",
             "2": "audio/op_7_10_mfcc.wav",
-            "3": "audio/op_7_10_wavenet.wav",
+            "3": "audio/op_7_10_noenv.wav",
             "4": "audio/op_7_10_spec.wav",
         }
     },
@@ -180,7 +180,7 @@ var TestConfig = {
             "Reference": "audio/gt_8_1.wav",
             "1": "audio/op_8_1_wave.wav",
             "2": "audio/op_8_1_mfcc.wav",
-            "3": "audio/op_8_1_wavenet.wav",
+            "3": "audio/op_8_1_noenv.wav",
             "4": "audio/op_8_1_spec.wav",
         }
     },
@@ -191,7 +191,7 @@ var TestConfig = {
             "Reference": "audio/gt_8_9.wav",
             "1": "audio/op_8_9_wave.wav",
             "2": "audio/op_8_9_mfcc.wav",
-            "3": "audio/op_8_9_wavenet.wav",
+            "3": "audio/op_8_9_noenv.wav",
             "4": "audio/op_8_9_spec.wav",
         }
     },
